@@ -6,4 +6,6 @@ This repository contains UI work that I code daily through codepen.io. While cod
 
 ## Projects
 
-[project_image] --> [project_url]
+### 1. Pagination Buttons
+
+[![Pagination by Emine Bozdag](assets/pagination.gif)](https://codepen.io/eminebozdag/full/yLqbggX)
