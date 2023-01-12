@@ -9,3 +9,7 @@ This repository contains UI work that I code daily through codepen.io. While cod
 ### 1. Pagination Buttons
 
 [![Pagination by Emine Bozdag](assets/pagination.gif)](https://codepen.io/eminebozdag/full/yLqbggX)
+
+### 2. Poll
+
+[![Poll by Emine Bozdag](assets/poll.gif)](https://codepen.io/eminebozdag/full/zYLwJWg)
