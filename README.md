@@ -13,3 +13,7 @@ This repository contains UI work that I code daily through codepen.io. While cod
 ### 2. Poll
 
 [![Poll by Emine Bozdag](assets/poll.gif)](https://codepen.io/eminebozdag/full/zYLwJWg)
+
+### 3. Pricing Card
+
+[![Pricing Card by Emine Bozdag](assets/pricing-card.gif)](https://codepen.io/eminebozdag/full/oNMwzmx)
