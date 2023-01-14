@@ -17,3 +17,7 @@ This repository contains UI work that I code daily through codepen.io. While cod
 ### 3. Pricing Card
 
 [![Pricing Card by Emine Bozdag](assets/pricing-card.gif)](https://codepen.io/eminebozdag/full/oNMwzmx)
+
+### 4. Progress Bar
+
+[![Proress Bar by Emine Bozdag](assets/progress-bar.gif)](https://codepen.io/eminebozdag/full/wvxeNvy)
