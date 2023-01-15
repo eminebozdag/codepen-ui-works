@@ -21,3 +21,7 @@ This repository contains UI work that I code daily through codepen.io. While cod
 ### 4. Progress Bar
 
 [![Proress Bar by Emine Bozdag](assets/progress-bar.gif)](https://codepen.io/eminebozdag/full/wvxeNvy)
+
+### 5. Team Page
+
+[![Team Page by Emine Bozdag](assets/team-page.gif)](https://codepen.io/eminebozdag/full/ZEjJBLN)
