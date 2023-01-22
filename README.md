@@ -25,3 +25,7 @@ This repository contains UI work that I code daily through codepen.io. While cod
 ### 5. Team Page
 
 [![Team Page by Emine Bozdag](assets/team-page.gif)](https://codepen.io/eminebozdag/full/ZEjJBLN)
+
+### 6. Signup Page
+
+[![Signup Page by Emine Bozdag](assets/signup.gif)](https://codepen.io/eminebozdag/full/ZEjrbQm)
