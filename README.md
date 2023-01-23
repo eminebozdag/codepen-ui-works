@@ -42,3 +42,7 @@ x
 ### 9. Blog Cards
 
 [![Blog Cards by Emine Bozdag](assets/blog-card.gif)](https://codepen.io/eminebozdag/full/rNrLREL)
+
+### 10. Movie Ticket
+
+[![Movie Ticket by Emine Bozdag](assets/movie-ticket.gif)](https://codepen.io/eminebozdag/full/BaPpeWg)
