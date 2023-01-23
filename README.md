@@ -29,7 +29,12 @@ This repository contains UI work that I code daily through codepen.io. While cod
 ### 6. Signup Page
 
 [![Signup Page by Emine Bozdag](assets/signup.gif)](https://codepen.io/eminebozdag/full/ZEjrbQm)
+x
 
 ### 7. Movie Card
 
 [![Movie Card by Emine Bozdag](assets/movie-card.gif)](https://codepen.io/eminebozdag/full/PoBWEvX)
+
+### 8. Article Page
+
+[![Article Page by Emine Bozdag](assets/article-page.gif)](https://codepen.io/eminebozdag/full/xxJOXXN)
