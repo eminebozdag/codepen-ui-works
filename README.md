@@ -38,3 +38,7 @@ x
 ### 8. Article Page
 
 [![Article Page by Emine Bozdag](assets/article-page.gif)](https://codepen.io/eminebozdag/full/xxJOXXN)
+
+### 9. Blog Cards
+
+[![Blog Cards by Emine Bozdag](assets/blog-card.gif)](https://codepen.io/eminebozdag/full/rNrLREL)
