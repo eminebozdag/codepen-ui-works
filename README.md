@@ -50,3 +50,7 @@ x
 ### 11. Feedback Form
 
 [![Feedback Form by Emine Bozdag](assets/feedback-form.gif)](https://codepen.io/eminebozdag/full/vYagBaq)
+
+### 12. Movie Banner
+
+[![Movie Banner by Emine Bozdag](assets/banner.gif)](https://codepen.io/eminebozdag/full/ExpEyvJ)
