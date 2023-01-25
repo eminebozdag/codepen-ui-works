@@ -54,3 +54,7 @@ x
 ### 12. Movie Banner
 
 [![Movie Banner by Emine Bozdag](assets/banner.gif)](https://codepen.io/eminebozdag/full/ExpEyvJ)
+
+### 13. Notifications
+
+[![Notifications by Emine Bozdag](assets/notification.gif)](https://codepen.io/eminebozdag/full/ExpEqjx)
