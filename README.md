@@ -73,4 +73,4 @@ x
 
 ### 17. Calendar
 
-[![Calendar by Emine Bozdag](assets/calendar.gif)](https://codepen.io/eminebozdag/full/dyjjdRR)
+[![Calendar by Emine Bozdag](assets/calendar-2.gif)](https://codepen.io/eminebozdag/full/ExppdMZ)
